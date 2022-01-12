@@ -1,0 +1,8 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 200px;
+    color: red;
+    row-gap: 5px;
+    column-gap: 5px;
+  }

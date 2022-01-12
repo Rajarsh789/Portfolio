@@ -1,0 +1,21 @@
+nav{
+    margin: 0; 
+    background:lightseagreen;
+    height: 70px;
+ }
+ ul{
+     list-style-type: none;
+ }
+ .row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    /* column-gap:50px;
+    row-gap: 20px;   */
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
