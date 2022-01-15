@@ -1,4 +1,4 @@
-.footer{
+/* .footer{
     background-color: black;
     height: 250px;
     position: relative;
@@ -21,5 +21,22 @@
   align-items: center;
   border-radius: 50%;
   font-size: 22px;
+} */
+
+h3{
+  color: #fff;
+}
+p{
+  color: #dad4d4;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+a i {
+  color: #fff;
+  font-size: 25px;
 }
 
+i{
+  color: #fff;
+  font-size: 15px;   
+}

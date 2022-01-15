@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import * as AOS from 'aos';
+
+
 
 @Component({
   selector: 'app-projects',
@@ -7,9 +10,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProjectsComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+    AOS.init();
+    console.log("project us");
+  
+    }
 
-  ngOnInit(): void {
+  ngOnInit() {
+    
   }
 
 }

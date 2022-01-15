@@ -1,9 +1,6 @@
-nav{
-   margin: 0; 
-   background: blue;
-   height: 100px;
+span{
+   font-weight: 650;
 }
-ul{
-    list-style-type: none;
+.fa{
+   font-size: 22px;
 }
-

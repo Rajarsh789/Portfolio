@@ -1,0 +1,37 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+section {
+    padding: 60px 0;
+}
+
+ section .section-title {
+    text-align: center;
+    color: #111;
+    color: red;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+   
+} 
+ .frontside {
+    position: relative;
+    z-index: 2;
+    margin-bottom: 30px;
+}
+ #team .card {
+    border: none;
+    background: #ffffff;
+}
+
+.frontside .card
+ {
+    min-height: 312px;
+}
+
+.frontside .card .card-title {
+    color: #106eea !important;
+}
+
+.frontside .card .card-body img {
+    width: 120px;
+    height: 120px;
+    border-radius: 150%;
+}  
