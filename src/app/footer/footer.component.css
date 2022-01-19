@@ -25,6 +25,10 @@
 
 h3{
   color: #fff;
+  padding: 20px;
+}
+h4{
+  padding: 20px;
 }
 p{
   color: #dad4d4;
@@ -39,4 +43,11 @@ a i {
 i{
   color: #fff;
   font-size: 15px;   
+}
+.footer-top{
+  background-color: black;
+}
+#footer.footer-top{
+  padding: 60px 0px 30px 0px;
+  background: white;
 }
